@@ -9,7 +9,7 @@
 #include "main.h"
 
 #define NUM_OF_BUTTONS 		3
-#define TIME_FOR_LONGPRESS  200
+#define TIME_FOR_LONGPRESS  300
 #define BUTTON_PRESSED		GPIO_PIN_RESET
 #define BUTTON_RELEASED 	GPIO_PIN_SET
 

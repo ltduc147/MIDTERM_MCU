@@ -16,7 +16,7 @@
 #define LONG_INC_STATE 		5
 #define LONG_DEC_STATE 		6
 
-#define TIME_OUT			3000
+#define TIME_OUT			10000
 
 
 extern int counter;
